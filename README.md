@@ -1,4 +1,8 @@
-## Hi there 👋
+##  Hi there
+
+I'm a product manager/designer or just a builder from Ukraine, living in Serbia. 
+Currently building [Rendervi](https://rendervi.com) and trying to grow it with SEO and social marketing. 
+
 
 <!--
 **yevkollab/yevkollab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
