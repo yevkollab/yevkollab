@@ -1,7 +1,7 @@
 ##  Hi there
 
-I'm a product manager/designer or just a builder from Ukraine, living in Serbia. 
-Currently building [Rendervi](https://rendervi.com) and trying to grow it with SEO and social marketing. 
+I'm yev, a product designer and manager in startups. 
+Currently building [Anivia Labs](https://anivialabs.com), a product team as a service.
 
 
 <!--
