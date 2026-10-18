@@ -1,7 +1,7 @@
 ##  Hi there
 
-I'm yev, a product designer and manager in startups. 
-Currently building [Anivia Labs](https://anivialabs.com), a product team as a service.
+Hey! I'm Yevhen, a product engineer working across startups and digital products.
+Currently building [Anivia Labs](https://anivialabs.com) with friends - 'a product team as a service'
 
 
 <!--
