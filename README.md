@@ -1,8 +1,6 @@
 ##  Hi there
 
 Hey! I'm Yevhen, a product engineer working across startups and digital products.
-Currently building [Anivia Labs](https://anivialabs.com) with friends - 'a product team as a service'
-
 
 <!--
 **yevkollab/yevkollab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
